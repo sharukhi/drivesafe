@@ -1,5 +1,3 @@
-#  
-
 <div align="center">
   <p>
       <img width="50%" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png"> 
@@ -9,26 +7,18 @@
   <p> Driver sleep detection and alerting system with python and opencv</p>
 </div>
 <br>
-
 <br>
 
-
-
-
-## How this works 
+## How this works
 <br>
   It takes video as an input and it will detect eyes of the driver and if the driver closes eyes it will send an alert and start playing sound.
 <br><br> 
-  <img src="/media/eye1.png" width="600">
+  <img src="eye1.jpg" width="600">
 <br>
-  <img src="/media/eye2.png" width="600">
+  <img src="eye2.png" width="600">
 <br>
-  <img src="/media/eye2.png" width="600">
+  <img src="eye3.jpg" width="600">
 <br>
-
-
-
-
 
 ## Installation 
 
