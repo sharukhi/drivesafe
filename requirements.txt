@@ -1,0 +1,7 @@
+opencv-python
+numpy
+dlib
+face-utils
+imutils
+pushbullet.py
+scipy
