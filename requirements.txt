@@ -5,3 +5,4 @@ face-utils
 imutils
 pushbullet.py
 scipy
+pygame
