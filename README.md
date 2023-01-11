@@ -20,21 +20,19 @@
   <img src="eye3.jpg" width="600">
 <br>
 
-## Installation 
+## Libraries used
 
-1. Download this repo
+* opencv-python
+* numpy
+* dlib
+* face-utils
+* imutils
+* pushbullet.py
+* scipy
+* pygame
 
-2. Install Python 
+## Credits
 
-3. Install required libraries with
-
-   ```bash
-    pip install -r requirements.txt
-   ```
-
-4. Set up the notification service 
-
-5. Connect a webcam
-
-6. Run the `app.py` file 
-
+* [Al-Hamja Utsho](https://instagram.com/alhamja_utsho)
+* [Rumman](https://instagram.com/ataullah_sharukhi)
+* [Shihab Chowdhury](https://instagram.com/shihab_chowdhury__)
